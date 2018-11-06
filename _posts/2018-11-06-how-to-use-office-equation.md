@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "XXXXXX BY JSM"
+title:  "mmmmX BY JSM"
 date:   2018-11-06 17:00:00
-categories: DOTNET
-tags: Klaman_filter MCMC GEOSTATISTICS
+categories: simulation
+tags: Klaman_filter Mcmc Geostatistics
 author: Simin
 ---
 

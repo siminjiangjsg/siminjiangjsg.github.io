@@ -2,8 +2,8 @@
 layout: post
 title:  "XXXXXX BY JSM"
 date:   2018-11-06 19:00:00
-categories: Simulate Modeling
-tags: GEOSTATISTICS
+categories: Simulating
+tags: Geostatistics
 author: Simin
 ---
 
