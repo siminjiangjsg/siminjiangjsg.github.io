@@ -3,7 +3,7 @@ layout: post
 title:  "mmmmX BY JSM"
 date:   2018-11-06 17:00:00
 categories: simulation
-tags: Klaman_filter Mcmc Geostatistics
+tags: Kalman_filter Mcmc Geostatistics
 author: Simin
 ---
 
