@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "文献整理方法(Zotero&Docear)"
+title:  "文献整理方法 (Zotero & Docear) "
 date:   2018-11-08 19:00:00
 categories: Academic_tools
-tags: 
+tags: Zotero Docear
 author: Simin
 ---
 
