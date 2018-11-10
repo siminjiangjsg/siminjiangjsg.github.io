@@ -12,14 +12,26 @@ mathjax: true
 * content
 {:toc}
 
-只是测试的一篇文章罢了，by jsm。
+```math
+e^{i\pi} + 1 = 0
+```
+```math
+e^{i\pi} + 1 = 0
+```
+```math
+e^{i\pi} + 1 = 0
+```
+```mermaid
+graph TD
+A[模块A] -->|A1| B(模块B)
+B --> C{判断条件C}
+C -->|条件C1| D[模块D]
+C -->|条件C2| E[模块E]
+C -->|条件C3| F[模块F]
+```
+```mermaid
+sequenceDiagram
+A->>B: 是否已收到消息？
+B-->>A: 已收到消息
+```
 
-
-$$E=mc^2$$
-$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
-
-
-## 任务
-
-
-加油！向着下一个目标前进！
