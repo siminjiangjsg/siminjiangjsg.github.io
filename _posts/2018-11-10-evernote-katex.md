@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "mmmmX BY JSM"
-date:   2018-11-06 17:00:00
-categories: simulation
-tags: Kalman_filter Mcmc Geostatistics
+title:  "katex try"
+date:   2018-11-10 10:00:00
+categories: 
+tags: 
 author: Simin
 katex: true
 
