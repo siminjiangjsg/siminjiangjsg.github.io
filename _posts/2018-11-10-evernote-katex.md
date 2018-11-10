@@ -5,7 +5,7 @@ date:   2018-11-10 10:00:00
 categories: 
 tags: 
 author: Simin
-katex: true
+math: true
 
 ---
 
